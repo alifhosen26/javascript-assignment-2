@@ -100,3 +100,4 @@ function averageResponseTime(times) {
   return total / times;
 }
 
+// md samim khan
